@@ -1,3 +1,3 @@
 git workshop!
-\nDarrick helped me lots
-\nNakul is the goat
+Darrick helped me lots
+Nakul is the goat
